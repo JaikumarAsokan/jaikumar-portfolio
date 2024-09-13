@@ -1,0 +1,39 @@
+.myProject {
+  display: flex;
+  /* background-color: rgb(168, 168, 168); */
+  flex-direction: column;
+  gap: 80px;
+  padding: 80px;
+  margin: 80px 100px;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+  box-shadow: 20px 20px 20px rgba(106, 106, 106, 0.3),
+    -20px -20px 20px rgba(106, 106, 106, 0.3);
+  border-radius: 30px;
+}
+
+.projectTitle h1 {
+  font-size: 60px;
+  font-weight: 600;
+  color: gray;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.container img {
+  width: 300px;
+  cursor: pointer;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.container img:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  border: solid 3px;
+}
