@@ -1,0 +1,36 @@
+.contact {
+  display: flex;
+  /* background-color: rgb(168, 168, 168); */
+  flex-direction: column;
+  gap: 40px;
+  margin: 80px 100px;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 80px;
+  box-shadow: 20px 20px 20px rgba(106, 106, 106, 0.3), 
+  -20px -20px 20px rgba(106, 106, 106, 0.3);
+  border-radius: 30px;
+}
+
+.contactTitle h1 {
+  font-size: 60px;
+  font-weight: 600;
+  color: gray;
+}
+
+.contactSection {
+  display: flex;
+  gap: 150px;
+}
+
+.contactSectionLeft {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.contactSectionLeft h1 {
+  font-size: 40px;
+}
+
+

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jaikumar-portfolio/static/css/main.fed7235a.css",
+    "main.js": "/jaikumar-portfolio/static/js/main.7b0fba5f.js",
+    "static/media/Jaikumar A_about.png": "/jaikumar-portfolio/static/media/Jaikumar A_about.6c7142cb55460b447a69.png",
+    "static/media/Jaikumar A.png": "/jaikumar-portfolio/static/media/Jaikumar A.e08a9b25444b1abb63fb.png",
+    "static/media/event-gallery-in-wordpress.jpg": "/jaikumar-portfolio/static/media/event-gallery-in-wordpress.d17437127f082f2ce30a.jpg",
+    "static/media/full-stack-web-developer.jpg": "/jaikumar-portfolio/static/media/full-stack-web-developer.9d00d8fafd04ee07f3b0.jpg",
+    "index.html": "/jaikumar-portfolio/index.html",
+    "main.fed7235a.css.map": "/jaikumar-portfolio/static/css/main.fed7235a.css.map",
+    "main.7b0fba5f.js.map": "/jaikumar-portfolio/static/js/main.7b0fba5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed7235a.css",
+    "static/js/main.7b0fba5f.js"
+  ]
+}

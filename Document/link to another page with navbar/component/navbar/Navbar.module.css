@@ -1,0 +1,55 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px 0px;
+  padding: 20px;
+  background-color: gray;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+
+  &:hover{
+     color: white;
+  }
+}
+
+
+.navMenu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 40px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.nav h1 {
+  font-weight: 600;
+  color: white;
+}
+
+li {
+  transition: 0.4s;
+}
+
+li:hover {
+  transform: scale(1.1);
+}
+
+.navConnect {
+  /* background-color:black; */
+  /* background-color:  rgb(29, 29, 90); */
+  background-color: lightgray;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.navConnect:hover {
+  transform: scale(1.03);
+}
